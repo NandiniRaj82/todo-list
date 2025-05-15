@@ -1,5 +1,5 @@
 import { Component, EventEmitter, Input, Output } from '@angular/core';
-import { Todo } from '../../todo';
+import { Todo } from '../../Todo';
 import { AddTodoComponent } from "../add-todo/add-todo.component"; // make sure this matches your actual filename casing
 
 @Component({
